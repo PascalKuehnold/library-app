@@ -1,4 +1,4 @@
-# A library app for booking books
+# A library app for booking books developed along a Udemy course.
 
 ## Tools used
 
