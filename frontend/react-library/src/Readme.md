@@ -1,5 +1,6 @@
-# lib folder with a octaConfig.ts file is need
+# Here a lib folder with a octaConfig.ts file is needed
 
+```
 export const oktaConfig = {
     clientId: '<your client id>',
     issuer: '<your okta issuer',
@@ -8,3 +9,4 @@ export const oktaConfig = {
     pkce: true,
     disableHttpsCheck: true
 }
+```
