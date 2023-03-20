@@ -1,4 +1,4 @@
-# Here a lib folder with a octaConfig.ts file is needed
+# A lib folder with a octaConfig.ts file is needed
 
 ```
 export const oktaConfig = {
